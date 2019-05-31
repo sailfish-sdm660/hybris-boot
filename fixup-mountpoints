@@ -1172,7 +1172,7 @@ case "$DEVICE" in
             -e 's block/bootdevice/by-name/toolsfv mmcblk0p29 ' \
             -e 's block/bootdevice/by-name/tz mmcblk0p32 ' \
             -e 's block/bootdevice/by-name/tzbak mmcblk0p33 ' \
-            -e 's block/bootdevice/by-name/userdata mmcblk0p63 ' \
+            -e 's block/bootdevice/by-name/userdata mmcblk0p64 ' \
             -e 's block/bootdevice/by-name/vbmeta mmcblk0p7 ' \
             -e 's block/bootdevice/by-name/vbmetabak mmcblk0p8 ' \
             -e 's block/bootdevice/by-name/vendor mmcblk0p62 ' \
